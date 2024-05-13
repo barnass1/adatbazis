@@ -1,0 +1,21 @@
+INSERT INTO Employees (EmployeeID, EmployeeName, EmployeeGender, EmployeeStatus)VALUES    
+(1, 'Luke Skywalker', 'férfi', 'menedzser'),     
+(2, 'Leia Organa', 'nő', 'értékesítő'),     
+(3, 'Han Solo', 'férfi', 'menedzser'),     
+(4, 'Chewbacca', 'egyéb', 'külső partner'),     
+(5, 'Yoda', 'macska', 'értékesítő'),     
+(6, 'Rey', 'nő', 'menedzser'),     
+(7, 'Kylo Ren', 'férfi', 'külső partner'),     
+(8, 'Padmé Amidala', 'nő', 'értékesítő'),     
+(9, 'Darth Vader', 'férfi', 'külső partner'),     
+(10, 'Boba Fett', 'férfi', 'menedzser');
+(11, 'Obi-Wan Kenobi', 'férfi', 'értékesítő'),     
+(12, 'Anakin Skywalker', 'férfi', 'külső partner'),     
+(13, 'Mace Windu', 'férfi', 'menedzser'),     
+(14, 'Qui-Gon Jinn', 'férfi', 'menedzser'),     
+(15, 'Darth Maul', 'férfi', 'külső partner'),     
+(16, 'R2-D2', 'egyéb', 'menedzser'),     
+(17, 'C-3PO', 'egyéb', 'értékesítő'),     
+(18, 'Poe Dameron', 'férfi', 'menedzser'),     
+(19, 'Finn', 'férfi', 'értékesítő'),     
+(20, 'BB-8', 'egyéb', 'külső partner');
