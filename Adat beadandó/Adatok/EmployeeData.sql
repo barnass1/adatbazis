@@ -8,7 +8,7 @@ INSERT INTO Employees (EmployeeID, EmployeeName, EmployeeGender, EmployeeStatus)
 (7, 'Kylo Ren', 'férfi', 'külső partner'),     
 (8, 'Padmé Amidala', 'nő', 'értékesítő'),     
 (9, 'Darth Vader', 'férfi', 'külső partner'),     
-(10, 'Boba Fett', 'férfi', 'menedzser');
+(10, 'Boba Fett', 'férfi', 'menedzser'),
 (11, 'Obi-Wan Kenobi', 'férfi', 'értékesítő'),     
 (12, 'Anakin Skywalker', 'férfi', 'külső partner'),     
 (13, 'Mace Windu', 'férfi', 'menedzser'),     
