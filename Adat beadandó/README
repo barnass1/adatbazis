@@ -1,1 +1,13 @@
-Készítette: Medve Barnabás, Vezér Zalán Norman
+Készítette: Medve Barnabás (EM9NYU), Vezér Zalán Norman (OYBTVS)
+
+Az adatbázisunk egy autókereskedő hálózat néhány napnyi eladásait mutatja 6 táblába szedve, 
+ebből az egyik egy összekötő hubként funkcionál, ahol a tüöbbi tábla elsődleges kulcsai idegen kulcsként szerepelnek
+
+A lekérdezések ehhez kapcsolódnak:
+1. Megmutatja melyik autókat nem adtuk el.
+2. A főbb színű autók számát mutatja.
+3. Megmutatja melyik nap és mennyi volt a legnagyobb bevétel.
+4. Megmutatja melyik alkalmazott nem adott el autót.
+5. Egy átfogóbb listát ad az eladásokról a különböző táblákban.
+6. Olyan emberek akik utcában laknak, és 1975-01-01 és 1983-12-30 között születtek.
+7. Az eladások és fizetési módok száma telephely szerint.
